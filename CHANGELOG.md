@@ -1,8 +1,9 @@
 # Changelog
 
+## v20.0.1 (2026-11-17)
 
-
-
+#### Package change
+* [#3020](https://github.com/shipshapecode/angular-shepherd/issues/3020) Update Package version of shepherd.js to ^14.5.1 ([@ricardodorosario](https://github.com/ricardodorosario))
 
 ## v20.0.0 (2025-07-30)
 
